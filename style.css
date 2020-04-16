@@ -74,9 +74,11 @@ a:hover {
 
 .btn-blue {
   background-color: #6B72E1;
+  /*background-color: black;*/
   color: white;
   padding: 15px 20px;
   border-radius: 4px;
+  width: 60px;
 }
 
 .btn-blue:hover {
