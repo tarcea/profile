@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@400;700&display=swap');*/
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
@@ -40,7 +41,7 @@ h1, h2 {
 }
 
 h1 {
-  color: #00a8cc;
+  /*color: #00a8cc;*/
   font-size: 32px;
   font-weight: 900;
 }
@@ -48,7 +49,7 @@ h1 {
 h2 {
   font-size: 20px
   font-weight: 500;
-  color: #00a8cc;
+  /*color: #00a8cc;*/
 }
 
 a {
